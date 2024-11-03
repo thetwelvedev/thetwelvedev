@@ -8,6 +8,8 @@
 
 ## My Skills
 
+<img src="https://github.com/user-attachments/assets/e8d16fec-d5ad-4709-9b59-b3b3cca5de56" min-width="350px" max-width="350px" width="350px" align="right" alt="laptop-banner">
+
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -17,8 +19,6 @@
 ### Secundary Stack:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-
-<img src="https://github.com/cloudcommunity/Free-Certifications/assets/141694339/5fb48626-6c8b-43f3-bc20-b27e7ca478a6" min-width="400px" max-width="400px" width="400px" align="right" alt="laptop-banner">
 
 #### Studying in this moment:
 
