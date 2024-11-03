@@ -1,10 +1,11 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/gustavoguanabara/html-css/assets/141694339/c93a3e4c-b022-46af-b5e4-5a474e7129b0" />
-&nbsp;&nbsp;&nbsp;
+<div style="text-align: center; margin-bottom: 100px;">
+    <img style="width: 100%;" src="https://github.com/user-attachments/assets/d07a6187-d179-43fb-af96-6664a7039156" />
+</div>
+<div style="text-align: center; margin-top: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=thetwelvedev&show_icons=true&theme=holi" style="width: 50%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact" style="width: 38%; height: auto;" />
+</div>
 
-![thetwelvedev's GitHub stats](https://github-readme-stats.vercel.app/api?username=thetwelvedev&show_icons=true&theme=holi)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
- &nbsp;
 ## My Skills
 
 #### Main Stack:
