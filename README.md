@@ -39,16 +39,19 @@
 
 ## Contacts:
 
-<div> 
-<a href="https://www.instagram.com/__lv12__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="mailto:twelve.programming@gmail.com?subject=Assunto%20Aqui&body=Escreva%20sua%20mensagem%20aqui">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
-<a href="https://www.linkedin.com/in/leonardo-castro-65202b297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://www.youtube.com/@Leo-ue9xv"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="blank"></a>
-</div>&nbsp;&nbsp;
- 
+<div>
+  <a href="https://www.instagram.com/__lv12__" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:twelve.programming@gmail.com?subject=Assunto%20Aqui&body=Escreva%20sua%20mensagem%20aqui">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/leonardo-castro-65202b297" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.youtube.com/@Leo-ue9xv" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+</div>
 
-  
-  
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b64&height=120&section=footer"/>
