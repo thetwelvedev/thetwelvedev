@@ -41,7 +41,7 @@
 
 <div>
   <a href="https://www.instagram.com/__lv12__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=twelve.programming@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=twelve.programming@gmail.com&su=Informações sobre sua Carreira Acadêmica&body=Olá Leonardo Castro,%0A%0AMeu nome é [Seu Nome] e estou interessado em saber mais sobre sua carreira acadêmica. Você poderia me passar algumas informações?%0A%0AAgradeço pela atenção!%0A%0AAtenciosamente,%0A[Seu Nome]" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
   <a href="https://www.linkedin.com/in/leonardo-castro-65202b297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
