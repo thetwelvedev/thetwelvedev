@@ -1,12 +1,12 @@
 <div style="text-align: center; margin-bottom: 100px;">
     <img style="width: 100%;" src="https://github.com/user-attachments/assets/d07a6187-d179-43fb-af96-6664a7039156" />
 </div>
-<div style="text-align: center; margin-top: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=thetwelvedev&show_icons=true&theme=holi" style="width: 50%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact&theme=holi" style="width: 38%; height: auto;" />
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=thetwelvedev&show_icons=true&theme=holi" alt="Leonardo Castro github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact&theme=holi" />
 </div>
 
-![Snake animation](https://github.com/thetwelvedev/thetwelvedev/blob/output/github-contribuion-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetwelvedev&bg_color=040716&color=244c98&line=24bdff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## My Skills
 
