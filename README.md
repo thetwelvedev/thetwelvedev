@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: center; margin-top: 20px;">
     <img src="https://github-readme-stats.vercel.app/api?username=thetwelvedev&show_icons=true&theme=holi" style="width: 50%; height: auto;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact" style="width: 38%; height: auto;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact&theme=holi" style="width: 38%; height: auto;" />
 </div>
 
 ![Snake animation](https://github.com/thetwelvedev/thetwelvedev/blob/output/github-contribuion-grid-snake.svg)
