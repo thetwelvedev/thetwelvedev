@@ -6,6 +6,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact" style="width: 38%; height: auto;" />
 </div>
 
+![Snake animation](https://github.com/thetwelvedev/thetwelvedev/blob/output/github-contribuion-grid-snake.svg)
+
 ## My Skills
 
 <img src="https://github.com/user-attachments/assets/e8d16fec-d5ad-4709-9b59-b3b3cca5de56" min-width="350px" max-width="350px" width="350px" align="right" alt="laptop-banner">
