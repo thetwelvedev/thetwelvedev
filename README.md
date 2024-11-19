@@ -15,7 +15,7 @@
 </div>
 <div align="center">
   <br>
-  <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thetwelvedev&layout=compact&cache_seconds=1800&theme=holi" alt=" Leonardo Castro's WakaTime Stats" />
+  <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thetwelvedev&layout=compact&cache_seconds=1800&hide_border=true&theme=holi&bg_color=0d1117" alt=" Leonardo Castro's WakaTime Stats" />
 </div>
 
 ## My Skills
