@@ -10,8 +10,12 @@
 </div>
 <div align="left">
   <img width="45%" height="200px" src="https://github-profile-trophy.vercel.app/?username=thetwelvedev&theme=holi&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thetwelvedev&layout=compact&cache_seconds=1800" alt=" Leonardo Castro's WakaTime Stats" />
+  <img width="45%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=thetwelvedev&theme=radical" alt="GitHub Contributions" />
 
+</div>
+<div align="center">
+  <br>
+  <img width="80%" height="230px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thetwelvedev&layout=compact&cache_seconds=1800&hide_border=true&theme=holi&bg_color=0d1117" alt=" Leonardo Castro's WakaTime Stats" />
 </div>
 
 ## My Skills
