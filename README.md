@@ -1,8 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b64&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Leonado+Castro;I'm+21+years+old;I+am+from+Brazil;I'm+a+Computer+Science+student+at+UFRR;Be+Welcome!+:%29)](https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000080&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Leonado+Castro;I'm+21+years+old;I+am+from+Brazil;I'm+a+Computer+Science+student+at+UFRR;Be+Welcome!+:%29)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thetwelvedev&bg_color=0d1117&color=244c98&line=24bdff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=thetwelvedev&bg_color=0d1117&color=244c98&line=24bdff&point=403d3d&area=true&hide_border=true)
 
 <div align="center">
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=thetwelvedev&show_icons=true&hide_border=true&theme=holi&bg_color=0d1117" alt="Leonardo Castro github stats" />
@@ -44,6 +44,12 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
 ![ArduinoIDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)&nbsp;
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
+
+<!--
+#### Projects:
+- [Projeto 1](https://github.com/projeto1)
+- [Projeto 2](https://github.com/projeto2) 
+-->
 
 ## Contacts:
 
