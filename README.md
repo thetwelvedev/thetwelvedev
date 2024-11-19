@@ -9,7 +9,7 @@
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thetwelvedev&layout=compact&langs_count=8&hide_border=true&theme=holi&bg_color=0d1117" />
   <img width="45%" height="200px" src="https://github-profile-trophy.vercel.app/?username=thetwelvedev&theme=holi&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
   <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/wakatime?username=thetwelvedev&layout=compact" />
-<div/>
+</div>
 
 ## My Skills
 
