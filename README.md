@@ -63,6 +63,8 @@
   </a>
   <a href="https://www.linkedin.com/in/leonardo-castro-65202b297" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.youtube.com/@Leo-ue9xv" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Contador%20de%20Visitas-000000?style=for-the-badge&logo=counter&logoColor=white" alt="Texto Contador">
+  <img src="https://profile-counter.glitch.me/thetwelvedev/count.svg" alt="Contador de visitas">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0b0b64&height=120&section=footer"/>
