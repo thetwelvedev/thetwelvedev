@@ -19,8 +19,6 @@
 
 ## My Skills
 
-<img src="https://github.com/user-attachments/assets/e8d16fec-d5ad-4709-9b59-b3b3cca5de56" min-width="350px" max-width="350px" width="350px" align="right" alt="laptop-banner">
-
 #### Main Stack:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
