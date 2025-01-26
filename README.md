@@ -50,9 +50,10 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 
-<!--
+
 #### Projects:
 - [Banco - Disciplina de Programação orientação a objetos](https://github.com/thetwelvedev/projeto-poo)
+<!--
 - [Projeto 2](https://github.com/projeto2) 
 - [Projeto 3](https://github.com/projeto3)
 -->
