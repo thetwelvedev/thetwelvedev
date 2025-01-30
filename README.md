@@ -53,8 +53,8 @@
 
 #### Projects:
 - [Banco - Disciplina de Programação orientação a objetos](https://github.com/thetwelvedev/projeto-poo)
+- [Projeto de Corretor Postural](https://github.com/thetwelvedev/MIC_Hands_on_Arthur_Ramos_Leonardo_Castro)
 <!--
-- [Projeto 2](https://github.com/projeto2) 
 - [Projeto 3](https://github.com/projeto3)
 -->
 
