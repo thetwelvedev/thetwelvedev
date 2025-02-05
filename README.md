@@ -53,7 +53,7 @@
 
 
 #### Projects:
-- [Banco - Disciplina de Programação orientação a objetos](https://github.com/thetwelvedev/projeto-poo)
+- [Trave Passagens Aéreas](https://github.com/thetwelvedev/projeto-poo)
 - [Projeto de Corretor Postural](https://github.com/thetwelvedev/MIC_Hands_on_Arthur_Ramos_Leonardo_Castro)
 <!--
 - [Processador 8 bits]([https://github.com/projeto3](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_2024))
