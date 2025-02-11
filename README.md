@@ -55,13 +55,13 @@
 #### Projects:
 - [Trave Passagens Aéreas](https://github.com/thetwelvedev/projeto-poo)
 - [Projeto de Corretor Postural](https://github.com/thetwelvedev/MIC_Hands_on_Arthur_Ramos_Leonardo_Castro)
+- [Processador 8 bits](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_2024)
 <!--
-- [Processador 8 bits]([https://github.com/projeto3](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_2024))
 -->
 
 ## Contacts:
 
-<div>
+<div
   <a href="https://www.instagram.com/__lv12__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=twelve.programming@gmail.com&su=Informações sobre sua Carreira Acadêmica&body=Olá Leonardo Castro,%0A%0AMeu nome é [Seu Nome] e estou interessado em saber mais sobre sua carreira acadêmica. Você poderia me passar algumas informações?%0A%0AAgradeço pela atenção!%0A%0AAtenciosamente,%0A[Seu Nome]" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
