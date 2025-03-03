@@ -50,13 +50,11 @@
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 
-
-<!--
 #### Projects:
 - [Trave Passagens Aéreas](https://github.com/thetwelvedev/projeto-poo)
 - [Projeto de Corretor Postural](https://github.com/thetwelvedev/MIC_Hands_on_Arthur_Ramos_Leonardo_Castro)
 - [Processador 8 bits](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_2024)
-
+<!--
 -->
 
 ## Contacts:
