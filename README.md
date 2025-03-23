@@ -54,8 +54,8 @@
 #### Projects:
 - [Trave Passagens Aéreas](https://github.com/thetwelvedev/projeto-poo)
 - [Projeto de Corretor Postural](https://github.com/thetwelvedev/MIC_Hands_on_Arthur_Ramos_Leonardo_Castro)
+- [Monitoramento de Pacientes e Condições de Risco](https://github.com/ArthurRamos26/Maloca-das-i-coisas-Hands-on-Intermidiate))
 <!-- 
-- [](Projeto Intermediário do Maloca)
 - [](Proejeto Avançado do Maloca) -->
 - [Processador 8 bits](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_2024)
 
