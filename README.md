@@ -54,12 +54,15 @@
 ![AndroidStudio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)&nbsp;
 
 ### Projects:
+#### Group
 - [Trave Passagens Aéreas](https://github.com/thetwelvedev/projeto-poo)
 - [Projeto de Corretor Postural](https://github.com/thetwelvedev/MIC_Hands_on_Arthur_Ramos_Leonardo_Castro)
-- [Monitoramento de Pacientes e Condições de Risco](https://github.com/ArthurRamos26/Maloca-das-i-coisas-Hands-on-Intermidiate)
+- [Monitoramento de Pacientes em Condições de Risco](https://github.com/ArthurRamos26/Maloca-das-i-coisas-Hands-on-Intermidiate)
 - [Processador 8 bits](https://github.com/thetwelvedev/AOC_LeonardoCastroAlefeAlves_UFRR_2024)
-<!-- - [](Proejeto Avançado do Maloca) -->
-
+- [Pulseira de Monitoramento de Pacientes em Condições de Risco](https://github.com/thetwelvedev/MIC-Hands-on-Advanced)
+  
+<!--#### Individual
+-->
 ## Contacts:
 
 <div
