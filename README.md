@@ -64,8 +64,9 @@
 - [Projeto de Corretor Postural](https://github.com/thetwelvedev/MIC_Hands_on_Arthur_Ramos_Leonardo_Castro)
 - [Monitoramento de Pacientes em Condições de Risco](https://github.com/ArthurRamos26/Maloca-das-i-coisas-Hands-on-Intermidiate)
 - [Pulseira de Monitoramento de Pacientes em Condições de Risco](https://github.com/thetwelvedev/MIC-Hands-on-Advanced)
-  
-<!--#### Individual
+<!--
+- [] tema 9
+#### Individual
 -->
 
 ## Contacts:
